@@ -1,2 +1,8 @@
-# coding_test
-Roche coding assessment
+
+# project
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of project is to ...
+

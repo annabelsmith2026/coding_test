@@ -2,7 +2,7 @@ Package: descriptiveStats
 Title: Simple descriptive statistic functions
 Version: 0.0.0.9000
 Authors@R: 
-    person(Annabel, Smith, annabelsmith678@outlook.com, role = c("aut", "cre"))
+    person("Annabel", "Smith", email= "annabelsmith678@outlook.com", role = c("aut", "cre"))
 Description: Provides simple descriptive statistic functions including mean, median, mode, quartiles and IQR
 License: MIT + file LICENSE
 Encoding: UTF-8
